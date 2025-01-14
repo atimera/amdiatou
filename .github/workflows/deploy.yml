@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20.12.2 # Remplacez par la version Node.js utilisée dans votre projet
+          node-version: latest # Remplacez par la version Node.js utilisée dans votre projet
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps=true
