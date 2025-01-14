@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/atimera/amdiatou/static/css/main.f855e6bc.css",
-    "main.js": "/atimera/amdiatou/static/js/main.49eea1b1.js",
-    "static/js/453.23c3018d.chunk.js": "/atimera/amdiatou/static/js/453.23c3018d.chunk.js",
-    "static/media/logo.svg": "/atimera/amdiatou/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/atimera/amdiatou/index.html",
-    "main.f855e6bc.css.map": "/atimera/amdiatou/static/css/main.f855e6bc.css.map",
-    "main.49eea1b1.js.map": "/atimera/amdiatou/static/js/main.49eea1b1.js.map",
-    "453.23c3018d.chunk.js.map": "/atimera/amdiatou/static/js/453.23c3018d.chunk.js.map"
+    "main.css": "/amdiatou/static/css/main.f855e6bc.css",
+    "main.js": "/amdiatou/static/js/main.d24bfa7c.js",
+    "static/js/453.23c3018d.chunk.js": "/amdiatou/static/js/453.23c3018d.chunk.js",
+    "static/media/logo.svg": "/amdiatou/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amdiatou/index.html",
+    "main.f855e6bc.css.map": "/amdiatou/static/css/main.f855e6bc.css.map",
+    "main.d24bfa7c.js.map": "/amdiatou/static/js/main.d24bfa7c.js.map",
+    "453.23c3018d.chunk.js.map": "/amdiatou/static/js/453.23c3018d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.49eea1b1.js"
+    "static/js/main.d24bfa7c.js"
   ]
 }
