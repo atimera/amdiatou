@@ -19,7 +19,7 @@ jobs:
           node-version: 18 # Remplacez par la version Node.js utilisée dans votre projet
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps=true
 
       - name: Build application
         run: npm run build
